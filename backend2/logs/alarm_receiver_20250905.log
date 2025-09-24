@@ -1,0 +1,80 @@
+2025-09-05 00:19:39,543 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:15001
+ * Running on http://192.168.31.249:15001
+2025-09-05 00:19:39,543 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 13:38:38,785 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:15001
+ * Running on http://192.168.1.7:15001
+2025-09-05 13:38:38,785 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 13:49:06,067 - INFO - ½ÓÊÕµ½±¨¾¯Êı¾İ
+2025-09-05 13:49:06,073 - INFO - ±¨¾¯¼ÇÂ¼ÒÑ±£´æµ½Êı¾İ¿â: 12
+2025-09-05 14:09:02,058 - INFO - ½ÓÊÕµ½±¨¾¯Êı¾İ
+2025-09-05 14:09:02,064 - INFO - ±¨¾¯¼ÇÂ¼ÒÑ±£´æµ½Êı¾İ¿â: 13
+2025-09-05 14:10:25,348 - INFO - ½ÓÊÕµ½±¨¾¯Êı¾İ
+2025-09-05 14:10:25,351 - INFO - ±¨¾¯¼ÇÂ¼ÒÑ±£´æµ½Êı¾İ¿â: 14
+2025-09-05 17:06:28,959 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:15001
+ * Running on http://192.168.8.18:15001
+2025-09-05 17:06:28,959 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 17:28:33,883 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:15001
+ * Running on http://192.168.8.18:15001
+2025-09-05 17:28:33,883 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 17:33:48,768 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:15001
+ * Running on http://192.168.8.18:15001
+2025-09-05 17:33:48,768 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 17:48:41,119 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:15001
+ * Running on http://192.168.8.18:15001
+2025-09-05 17:48:41,120 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 17:51:09,994 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:15001
+ * Running on http://192.168.8.18:15001
+2025-09-05 17:51:09,994 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 17:52:49,571 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:15001
+ * Running on http://192.168.8.18:15001
+2025-09-05 17:52:49,571 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 18:06:27,445 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:15001
+ * Running on http://192.168.8.18:15001
+2025-09-05 18:06:27,445 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 18:09:17,170 - INFO - æ¥æ”¶åˆ°æŠ¥è­¦æ•°æ®
+2025-09-05 18:09:17,171 - INFO - æŠ¥è­¦å›¾ç‰‡å·²ä¿å­˜: uploads/alerts/alert_1757066957.jpg
+2025-09-05 18:09:17,171 - ERROR - å¤„ç†æŠ¥è­¦æ•°æ®å¤±è´¥: DatabaseManager.create_security_alert() missing 1 required positional argument: 'alert_id'
+2025-09-05 18:09:17,171 - INFO - 192.168.8.39 - - [05/Sep/2025 18:09:17] "POST /aibox HTTP/1.1" 200 -
+2025-09-05 18:09:43,272 - INFO - æ¥æ”¶åˆ°æŠ¥è­¦æ•°æ®
+2025-09-05 18:09:43,274 - INFO - æŠ¥è­¦å›¾ç‰‡å·²ä¿å­˜: uploads/alerts/alert_1757066983.jpg
+2025-09-05 18:09:43,274 - ERROR - å¤„ç†æŠ¥è­¦æ•°æ®å¤±è´¥: DatabaseManager.create_security_alert() missing 1 required positional argument: 'alert_id'
+2025-09-05 18:09:43,274 - INFO - 192.168.8.39 - - [05/Sep/2025 18:09:43] "POST /aibox HTTP/1.1" 200 -
+2025-09-05 18:10:50,523 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:15001
+ * Running on http://192.168.8.18:15001
+2025-09-05 18:10:50,523 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-05 18:15:19,293 - INFO - æ¥æ”¶åˆ°æŠ¥è­¦æ•°æ®
+2025-09-05 18:15:19,295 - INFO - æŠ¥è­¦å›¾ç‰‡å·²ä¿å­˜: uploads/alerts/alert_1757067319.jpg
+2025-09-05 18:15:19,296 - ERROR - å¤„ç†æŠ¥è­¦æ•°æ®å¤±è´¥: DatabaseManager.create_security_alert() missing 1 required positional argument: 'alert_id'
+2025-09-05 18:15:19,296 - INFO - 192.168.8.39 - - [05/Sep/2025 18:15:19] "POST /aibox HTTP/1.1" 200 -
+2025-09-05 18:15:53,980 - INFO - æ¥æ”¶åˆ°æŠ¥è­¦æ•°æ®
+2025-09-05 18:15:53,981 - INFO - æŠ¥è­¦å›¾ç‰‡å·²ä¿å­˜: uploads/alerts/alert_1757067353.jpg
+2025-09-05 18:15:53,981 - ERROR - å¤„ç†æŠ¥è­¦æ•°æ®å¤±è´¥: DatabaseManager.create_security_alert() missing 1 required positional argument: 'alert_id'
+2025-09-05 18:15:53,981 - INFO - 192.168.8.39 - - [05/Sep/2025 18:15:53] "POST /aibox HTTP/1.1" 200 -
+2025-09-05 18:18:09,992 - INFO - æ¥æ”¶åˆ°æŠ¥è­¦æ•°æ®
+2025-09-05 18:18:09,994 - INFO - æŠ¥è­¦å›¾ç‰‡å·²ä¿å­˜: uploads/alerts/alert_1757067489.jpg
+2025-09-05 18:18:09,994 - ERROR - å¤„ç†æŠ¥è­¦æ•°æ®å¤±è´¥: DatabaseManager.create_security_alert() missing 1 required positional argument: 'alert_id'
+2025-09-05 18:18:09,994 - INFO - 192.168.8.39 - - [05/Sep/2025 18:18:09] "POST /aibox HTTP/1.1" 200 -
+2025-09-05 18:18:43,423 - INFO - æ¥æ”¶åˆ°æŠ¥è­¦æ•°æ®
+2025-09-05 18:18:43,425 - INFO - æŠ¥è­¦å›¾ç‰‡å·²ä¿å­˜: uploads/alerts/alert_1757067523.jpg
+2025-09-05 18:18:43,425 - ERROR - å¤„ç†æŠ¥è­¦æ•°æ®å¤±è´¥: DatabaseManager.create_security_alert() missing 1 required positional argument: 'alert_id'
+2025-09-05 18:18:43,425 - INFO - 192.168.8.39 - - [05/Sep/2025 18:18:43] "POST /aibox HTTP/1.1" 200 -
